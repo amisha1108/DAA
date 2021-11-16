@@ -9,7 +9,7 @@ from their place) required for sorting the array.
 
 using namespace std;
 
-int main(void){
+int main(){
     int t;
     cin>>t;
     while(t--)
